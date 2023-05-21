@@ -203,12 +203,15 @@ int main(void)
 ```
 
 ## Output screen shots of proteus  :
- 
+
+ ![PMC 2](https://github.com/Dhanashreemullaithasan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94165415/5d9fd147-103f-488a-b881-9bea7b19ea98)
+
  ![PM D](https://github.com/Dhanashreemullaithasan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94165415/fcaf7822-1c56-466f-b81e-55d235091048)
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
-![Uploading imagw 1.png…]()
+![PMC 1](https://github.com/Dhanashreemullaithasan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94165415/9f1b1772-4668-4c21-8da8-44f93053e004)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
